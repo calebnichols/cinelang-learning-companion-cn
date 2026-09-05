@@ -1,0 +1,1 @@
+window.CINE_CONFIG={"url": "https://yhevpvixdifbsvdvqjve.supabase.co", "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InloZXZwdml4ZGlmYnN2ZHZxanZlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODA4MzUzMDMsImV4cCI6MjA5NjQxMTMwM30.dSN0tz_be2tZtxGTVzFLy6U5bQsmL3Kw6dHoEMJnfLo"};
